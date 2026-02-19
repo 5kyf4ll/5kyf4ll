@@ -14,7 +14,7 @@ My goal is to make cybersecurity **educational, ethical, and practical**.
 
 ### ⚙️ **Main Projects**
 - ⌨️ **Physical Keylogger (ESP32)** — Awareness project showing real-world attack vectors.
-- - 🧩 **Molly** — Local AI assistant for *Blue Team* analysis running on Raspberry Pi 5.  
+- 🧩 **Molly** — Local AI assistant for *Blue Team* analysis running on Raspberry Pi 5.  
 - 🔐 **FTP Honeypot on ESP32** — Captures and logs unauthorized connection attempts.  
 - 📡 **Mini PCAP Logger** — Lightweight Wi-Fi packet sniffer for educational use.  
 
